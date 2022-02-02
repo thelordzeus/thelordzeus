@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnav Shukla</h1>
 <h3 align="center">A student passionate about web apps development.</h3>
 
-- 🔭 I’m currently working on **Spotify clone with better UI**
+- 🔭 I’m currently working on **Front End devlopment**
 
-- 🌱 I’m currently learning **CPP(DSA) and JS**
+- 🌱 I’m currently learning **CPP(DSA) and JS/React**
 
 - 📫 How to reach me **arnav55125@gmail.com**
 
