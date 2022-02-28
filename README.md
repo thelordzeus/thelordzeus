@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnav Shukla</h1>
 <h3 align="center">A student passionate about web apps development.</h3>
 
-- 🔭 I’m currently working on **Front End devlopment**
+- 🏫 I'm currently a first year student at SRM, KTR campus
 
-- 🌱 I’m currently learning **CPP(DSA) and JS/React**
+- 🔭 I’m currently working on **Front End devlopment and backend devlopment**
+
+- 🌱 I’m currently learning **CPP(DSA) and React**
 
 - 📫 How to reach me **arnav55125@gmail.com**
 
