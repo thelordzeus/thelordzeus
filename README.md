@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arnav Shukla</h1>
-<h3 align="center"><a href="https://my-link-khaki.vercel.app/" target="_blank">My poryfolio<a/><h3/>
+<h3 align="center"><a href="https://thelordzeus.vercel.app/" target="_blank">My poryfolio<a/><h3/>
 <h3 align="center">A student passionate about web apps development.</h3>
 
-- 🏫 I'm currently a first year student at SRM, KTR campus
+- 🏫 I'm currently a second year student at SRM, KTR campus
 
-- 🔭 I’m currently working on **Front End devlopment and backend devlopment**
+- 🔭 I’m currently working on **Backend Devlopment and Blockchain Devlopment**
 
 - 🌱 I’m currently learning **CPP(DSA) and React**
 
