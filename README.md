@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Shukla</h1>
-<h3 align="center"><a href="https://thelordzeus.vercel.app/" target="_blank">My poryfolio<a/><h3/>
+<h3 align="center"><a href="https://thelordzeus.vercel.app/" target="_blank">My portfolio<a/><h3/>
 <h3 align="center">A student passionate about web apps development.</h3>
 
 - 🏫 I'm currently a second year student at SRM, KTR campus
