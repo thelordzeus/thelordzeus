@@ -11,11 +11,7 @@
 # 📊 GitHub Stats:
 
 
-[![Arnav's github stats](https://github-readme-stats.vercel.app/api?username=thelordzeus&show_icons=true&theme=dark)](https://github.com/vaishnav-mk)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelordzeus&layout=compact&theme=dark)](https://github.com/thelordzeus) 
-
-
-
-[![Arnav](https://github-readme-activity-graph.vercel.app/graph?username=thelordzeus&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/thelordzeus/github-readme-activity-graph) 
+<img src="https://myreadme.vercel.app/api/embed/thelordzeus?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 
