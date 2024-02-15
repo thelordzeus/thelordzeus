@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
-⛓️<a href="https://thelordzeus.vercel.app/" target="_blank">My Portfolio Website.</a><br><br>🏫 I'm currently a Third-year student at SRM, KTR campus<br><br>🔭 I’m currently working on Backend Development and Blockchain Development<br><br>🌱 I’m currently learning solidity and backend<br><br>⚡ Fun fact I'm also a weeb.
+<br><br>🏫 I'm currently a Third-year student at SRM, KTR campus<br><br>🔭 I’m currently working on Backend Development and Blockchain Development<br><br>🌱 I’m currently learning solidity and backend<br><br>⚡ Fun fact I'm also a weeb.
 
 
 ## 🌐 Socials:
