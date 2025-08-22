@@ -5,6 +5,7 @@
 
 ## 💼 Experience  
 <img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
+
 - **Product Engineer @ Kuddle**  
   - Built fully cached chat system improving partner response time by 20%  
   - Developed nationwide pet adoption platform, boosting SEO traffic by 18%  
