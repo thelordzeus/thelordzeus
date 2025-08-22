@@ -1,7 +1,22 @@
-# 💫 About Me:
-<img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
-<br><br>🏫 I'm currently a Product Engineer at Kuddle Technologies Ltd, bengaluru<br><br>🔭 I’m currently working on Backend Development and Blockchain Development<br><br>🌱 I’m currently learning solidity and backend<br><br>⚡ Fun fact I'm also a weeb.
+# 👋 Hi, I'm Arnav Shukla
+💻 Product Engineer @ Kuddle Technologies Ltd, Bengaluru  
+🚀 Passionate about Backend Development, Flutter, Distributed Systems & Blockchain  
+🎓 B.Tech CSE (Blockchain) @ SRMIST | 8.96 CGPA  
 
+## 💼 Experience  
+<img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
+- **Product Engineer @ Kuddle**  
+  - Built fully cached chat system improving partner response time by 20%  
+  - Developed nationwide pet adoption platform, boosting SEO traffic by 18%  
+  - Automated partner tracking & payouts, improving efficiency by 15%  
+
+- **Software Developer @ IDS**  
+  - Designed 60+ microservices & APIs with NestJS, GraphQL & RabbitMQ  
+  - Scaled system performance by 70% and reduced response time by 40%  
+
+- **Software Developer @ Codelance Devs**  
+  - Delivered client websites & scalable e-commerce platform with Next.js  
+  - Improved page load speed by 80% and reduced bounce rate by 30%  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thelordzeus_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavshukla) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamlordzeus) 
