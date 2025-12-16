@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Arnav Shukla
-💻 Product Engineer @ Kuddle Technologies Ltd, Bengaluru  
+💻 Founding Product Engineer @Klydo, Bengaluru  
 🚀 Passionate about Backend Development, Flutter, Distributed Systems & Blockchain  
 🎓 B.Tech CSE (Blockchain) @ SRMIST | 8.96 CGPA  
 
