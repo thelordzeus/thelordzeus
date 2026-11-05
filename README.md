@@ -1,23 +1,38 @@
 # 👋 Hi, I'm Arnav Shukla
-💻 Founding Product Engineer @Klydo, Bengaluru  
+💻 Founding Product Engineer @KNOT - 60 minutes fashion, Bengaluru  
 🚀 Passionate about Backend Development, Flutter, Distributed Systems & Blockchain  
 🎓 B.Tech CSE (Blockchain) @ SRMIST | 8.96 CGPA  
 
 ## 💼 Experience  
 <img align="right" alt="Coding" width="400" src= "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
+- **Software Engineer @ KNOT - 60 minutes fashion**  
+  - Built a multiwarehouse cart & delivery system with inventory allocation and shipment-specific delivery options, contributing to 70%+ growth in monthly GMV after launch  
+  - Designed a checkout rehoming engine that reassigned items when inventory or delivery ETAs changed, eliminating inventory- and ETA-related checkout cancellations  
+  - Built & launched an AI Reels Feed with inventory-aware product matching across warehouses, increasing GMV by 12%  
+  - Architected scrapers for 300+ D2C brands, refreshing approximately 2.4 million product records daily with inventory, specifications & catalogue data  
+  - Built competitor price intelligence across Slikk, Zilo, Myntra & brand sites, capturing 20,000+ prices in a validated refresh to inform brand negotiations and selling-price forecasts  
+  - Developed a Price Cron that matched products & sizes to synchronize KNOT SKU MRP and selling prices with brand storefronts within approximately one hour  
+  - Engineered event-driven warehouse alerts using order, fulfillment & rider states to flag potential delivery delays and rider shortages  
+  - Built the KNOT Cash wallet & transaction ledger with virtual cash grants, expiry, cart redemption, refunds & auditable balance history  
+  - Built a private-supply intelligence scraper using marketplace demand & rating signals to shape assortment and shortlist products from omnichannel brands  
+
+- **Founding Product Engineer @ Klydo**  
+  - Led 0→1 architecture for the Flutter mobile app & scalable Kotlin backend, with modular architecture, Riverpod state management & production-grade APIs  
+  - Delivered Try Now, Pay Later (TNPL) across Flutter & Kotlin services with order placement, delivery tracking & payment collection, increasing cart-to-checkout conversion by 60%  
+  - Shipped a server-driven shop page with STAC integration & an internal no-code console, enabling marketing to update layouts through drag-and-drop widgets without app releases  
+  - Architected the end-to-end return & exchange system, covering customer flows, backend orchestration & status tracking  
+  - Engineered a product image search & pricing engine that scraped 4,000+ competitor products weekly to support data-driven pricing decisions  
+
 - **Product Engineer @ Kuddle**  
-  - Built fully cached chat system improving partner response time by 20%  
-  - Developed nationwide pet adoption platform, boosting SEO traffic by 18%  
-  - Automated partner tracking & payouts, improving efficiency by 15%  
+  - Developed a fully cached partner-app chat system that centralized conversations, improved chat speed & reliability, and reduced partner response time by 20%  
+  - Delivered an end-to-end pet adoption platform with secure in-app chat & a nationwide landing page, boosting website SEO traffic and service discovery by 18%  
+  - Enhanced information pages for 10+ pet breeds to support SEO & user engagement, while streamlining tech operations for operations and partner teams  
+  - Orchestrated real-time partner tracking, appointment management & automated payouts, increasing partner efficiency by 15%  
 
 - **Software Developer @ IDS**  
   - Designed 60+ microservices & APIs with NestJS, GraphQL & RabbitMQ  
   - Scaled system performance by 70% and reduced response time by 40%  
-
-- **Software Developer @ Codelance Devs**  
-  - Delivered client websites & scalable e-commerce platform with Next.js  
-  - Improved page load speed by 80% and reduced bounce rate by 30%  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thelordzeus_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavshukla) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamlordzeus) 
